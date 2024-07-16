@@ -1,1 +1,3 @@
 # 2wdRover_follower
+
+2 wheel drive robot with custom controller, and ball tracker implemented using OpenCV and ros2_control, cmdvel , joint_state_broad...
